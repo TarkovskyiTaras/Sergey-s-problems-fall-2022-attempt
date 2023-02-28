@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3aab9576-3dd4-486b-93f8-a7130d530125" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/strings/problem-2.5.1.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/README-week2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.3.2/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.3.2/problem-2.3.2.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.3.2/problem-2.3.2_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.3.5/problem-2.3.5.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.3.5/problem-2.3.5_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.3.6/problem-2.3.6.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.3.6/problem-2.3.6_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.3.7/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.3.7/problem-2.3.7.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.3.7/problem-2.3.7_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.3.8/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.3.8/problem-2.3.8.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.3.8/problem-2.3.8_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.3.9/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.3.9/problem-2.3.9.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.3.9/problem-2.3.9_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.6.2.1/problem2.6.2.1.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.6.2.10/problem-2.6.2.10.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.6.2.2/problem2.6.2.2.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.6.2.3/problem2.6.2.3.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.6.2.4/problem2.6.2.4.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.6.2.5/problem2.6.2.5.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.6.2.6/problem-2.6.2.6.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.6.2.7/problem-2.6.2.7.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.6.2.8/problem-2.6.2.8.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-problems/problem-2.6.2.9/problem-2.6.2.9.go" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I7yagf83LO4RSD2rWEcfLy6d91" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/taras/Desktop/slice-string-map-problems&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ],
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Shell Script&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/maps/problem-m.1.10" />
+      <recent name="$PROJECT_DIR$/maps/problem-m.1.9" />
+      <recent name="$PROJECT_DIR$/maps/problem-m.1.8" />
+      <recent name="$PROJECT_DIR$/maps/problem-m.1.7" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build problem-m.2.2.go">
+    <configuration name="go build problem-m.1.7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Sergey-s-problems-fall-2022-attempt" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/maps/problem-m.1.7/problem-m.1.7.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build problem-m.1.8.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Sergey-s-problems-fall-2022-attempt" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/maps/problem-m.1.8/problem-m.1.8.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build problem-m.1.9.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Sergey-s-problems-fall-2022-attempt" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/maps/problem-m.1.9/problem-m.1.9.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build problem-m.2.2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Sergey-s-problems-fall-2022-attempt" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/maps/problem-m.2.2/problem-m.2.2.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build problem.m.2.1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Sergey-s-problems-fall-2022-attempt" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/maps/problem.m.2.1.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build problem-m.2.2.go" />
+        <item itemvalue="Go Build.go build problem.m.2.1.go" />
+        <item itemvalue="Go Build.go build problem-m.1.9.go" />
+        <item itemvalue="Go Build.go build problem-m.1.8.go" />
+        <item itemvalue="Go Build.go build problem-m.1.7.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
